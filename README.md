@@ -16,7 +16,7 @@
 
 <h3><samp>Features:</samp></h3>
 <ul>
-<li><samp>Responsive for desktop and tablet and mobile</samp></li>
+<li><samp>Responsive for desktop</samp></li>
 <li><samp>Hover effects</samp></li>
 <li><samp>Little Animation</samp></li>
 <li><samp>Flexbox</samp></li>
